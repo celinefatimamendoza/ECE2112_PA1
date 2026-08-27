@@ -96,9 +96,11 @@ swap_bookends(["red", "green", "blue"])
 swap_bookends([8, 3])
 ```
 
-## *END*
 
-**Version History**   
+#### *Thank you for reading!*
+
+
+**README file Version History**   
 *August 27, 2026* - Publishing of the whole output for experiment 01.
 
 
